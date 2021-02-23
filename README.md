@@ -22,9 +22,9 @@ Start server:
 python manage.py runserver
 Starting development server at http://127.0.0.1:8000/
 Usage
-$ django-admin <command> [options] (help --commands)
-$ manage.py <command> [options]
-$ python -m django <command> [options]
+ django-admin 
+ manage.py 
+ python -m django 
 More details will come...
 Comments
 The backend is not works well cause of the designation is on process, but the frontend lacks design. Will be replaced by a new bootstrap frontend soon...
