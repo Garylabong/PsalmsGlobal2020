@@ -1,1 +1,0 @@
-# PsalmsGlobal2020
